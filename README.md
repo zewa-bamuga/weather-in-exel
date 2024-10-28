@@ -6,3 +6,7 @@
 ```shell script
 	make run
 ```
+or
+```shell script
+	make run-python3
+```
