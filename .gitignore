@@ -12,7 +12,6 @@ venv/
 env/
 .idea/
 
-config.py
 *.env
 
 *.db
