@@ -1,3 +1,6 @@
+install:
+	poetry install
+
 run:
 	cd src && python main.py
 
