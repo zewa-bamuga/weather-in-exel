@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+venv/
+env/
+
+config.py
+*.env
+
+*.db
+weather_data.db
+
+*.xlsx
+weather_report.xlsx
+
+*.log
